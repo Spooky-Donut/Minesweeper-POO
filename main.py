@@ -1,4 +1,4 @@
-class Tablero:
+class Tabler_Principal:
 
     def __init__(self, filas:int, columnas:int, num_minas:int) -> None:
         
